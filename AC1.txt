@@ -1,3 +1,7 @@
+Respostas AC1. 
+Júlia DOminguez Curto -  202402192477
+data: 26/03/2026
+
 Questão 1
 ENADE 2018 (adaptada): A computação em nuvem tem revolucionado a forma como as empresas adquirem e gerenciam recursos de TI. Considerando os modelos de implantação, avalie as afirmações:
 
